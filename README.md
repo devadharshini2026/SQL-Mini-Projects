@@ -3,8 +3,8 @@
 ## 📌 Overview
 This repository contains **30 SQL mini projects**, each designed to help you master different SQL concepts step by step.  
 Every project includes:
-- Database schema (`create_tables.sql`)
-- Sample data (`insert_data.sql`)
+- Database schema (`tables.sql`)
+- Sample data (`data.sql`)
 - Practice queries (`queries.sql`)
 - A `README.md` explaining the project
 
@@ -13,8 +13,8 @@ Every project includes:
 ## ⚙️ How to Run
 1. Open **MySQL Workbench** (or your preferred SQL client).  
 2. Create a new database for each project.  
-3. Run `create_tables.sql` to set up schema.  
-4. Run `insert_data.sql` to load sample data.  
+3. Run `tables.sql` to set up schema.  
+4. Run `data.sql` to load sample data.  
 5. Try out `queries.sql` for practice.  
 
 ---
